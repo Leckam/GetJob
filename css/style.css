@@ -8577,11 +8577,11 @@ textarea.form-control {
   .ftco-counter .text strong.number {
     font-weight: 400;
     font-size: 30px;
-    color: #000000; }
+    color: #FFFFFF; }
   .ftco-counter .text span {
     display: block;
     font-size: 16px;
-    color: rgba(0, 0, 0, 0.7); }
+    color: rgba(256, 256, 256, 0.7); }
   @media (max-width: 767.98px) {
     .ftco-counter .counter-wrap {
       margin-bottom: 20px; } }
